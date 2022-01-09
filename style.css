@@ -99,7 +99,7 @@ a{
 
 .latest-works img:hover{
   /* opacity: 100%; */
-  box-shadow: 5px 5px 10px #130f40;
+  box-shadow: 5px 5px 10px white;
   transform:scale(1.5);
 }
 
