@@ -99,9 +99,9 @@ a{
 
 .latest-works img:hover{
   /* opacity: 100%; */
-  box-shadow: 5px 5px 10px white;
+  box-shadow: 2px 2px 5px #000;
   transform:scale(1.5) rotate(-15deg);
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .clients{
